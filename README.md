@@ -1,4 +1,7 @@
 # Implementation of Univariate Linear Regression
+## Name: Moohamed Faizal M
+## Reg no: 212223243002
+## Date:
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
 ## Equipment’s required:
